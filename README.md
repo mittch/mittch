@@ -1,4 +1,5 @@
 ### Hi there 👋
+🌱 I’m currently learning Angular, TypeScript, JavaScrip, nodejs, GraphQL and Rust. 
 
 <!--
 **mittch/mittch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
